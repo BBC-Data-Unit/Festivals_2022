@@ -3,6 +3,8 @@ We revisit the issue of gender imbalance at major UK festivals
 
 In May 2022 we revisited the UK festival scene to look at the gender imbalance among headline performers.
 
+![festival_headliners_gender__640-nc](https://user-images.githubusercontent.com/61186777/170726852-943052db-bdad-4f9a-be71-1e5151ab5b2a.png)
+
 When we first carried out the research in 2017, the Shared Data Unit found 80% of the bill-topping acts at major festivals between the mid-1980s and that year had been male.
 
 In 2022 we teamed up with Radio 1's Newsbeat and wanted to take a slightly different approach - focussing not just on the top ten festivals in the UK, but the top 50.
@@ -16,6 +18,8 @@ The findings showed that little had changed despite a series of major campaigns 
 - While there was a small proportion of mixed-gender acts and one non-binary performer, all-male bands and solo artists occupied three quarters of the top billings.
 
 - Half of all the festivals in the study had no female headliners on the bill.
+
+![festival_headliners_first_release__640-nc](https://user-images.githubusercontent.com/61186777/170726814-f0abe3cd-69a8-4d54-93a5-5db42fa5ead0.png)
 
 US singer Maggie Rogers, whose hits include ‘Give a Little’ and ‘Alaska’, said the lack of female representation at festivals continued to be “horrifying” and urged festival directors to be bolder in their choice of headliners.
 
