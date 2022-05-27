@@ -1,7 +1,7 @@
 # Festivals_2022
 We revisit the issue of gender imbalance at major UK festivals
 
-In May 2022 we revisited the UK festival scene to look at the gender imbalance among headline performers.
+In May 2022 we revisited the UK festival scene to look at the [gender imbalance among headline performers.](https://www.bbc.co.uk/news/newsbeat-61512053)
 
 ![festival_headliners_gender__640-nc](https://user-images.githubusercontent.com/61186777/170726852-943052db-bdad-4f9a-be71-1e5151ab5b2a.png)
 
