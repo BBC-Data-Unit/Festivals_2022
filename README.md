@@ -9,7 +9,7 @@ In 2022 we teamed up with Radio 1's Newsbeat and wanted to take a slightly diffe
 
 The findings showed that little had changed despite a series of major campaigns to improve the split of main stage performers at the summer events.
 
-We found:
+# What we found
 
 - Only 13% of performers were found to be a female solo act or all-female band. 
 
@@ -27,11 +27,12 @@ He said inequalities ran throughout the ‘talent pipeline’ and had as much to
 
 # Methodology
 
-This was a manual study which looked at the headings used on festival posters across the UK. We chose the 50 festivals to use in our study from this YouGov poll and logged the name, ages, gender and career length of every act in the largest font on each festival poster. More on the methodology can be found here. 
+This was a manual study which looked at the headings used on festival posters across the UK. We chose the 50 festivals to use in our study from [this](https://yougov.co.uk/ratings/entertainment/popularity/music-festivals/all) YouGov poll and logged the name, ages, gender and career length of every act in the largest font on each festival poster. More on the methodology, background and findings can be found [here](https://docs.google.com/document/d/1FQyWH-GGbteQfiBRf3RrFjiVGiJ03EdTnQy2SpSAET8/edit?usp=sharing). 
 
-We produced this dataset with the details of every headline act - plus a running tally for each festival. 
+Data
+We produced [this](https://docs.google.com/spreadsheets/d/1FcRk9ZtD22UrojQ00lCn-Mk_lmnE36qj398vIced43E/edit?usp=sharing) dataset with the details of every headline act at 50 festivals across the country as well as the event's location and capacity.  
 
-# Usage
+# Partner usage
 
 The story featured as a bulletin piece across local and national television and radio through 24 May, 2022 and a radio package aired at breakfast, midday and evening bulletins.
 
@@ -42,3 +43,8 @@ Paul also appeared on the Look East evening news while Mitch Mansfield, a collea
 Special radio packages were made for Radio 1, Radio 2, Radio 3, Radio 4, Radio Five Live, 6 Music and the World Service.
 
 A number of our partner network used the story as well.
+
+- Eastern Daily Press, [No girls aloud: where are all the female festival headliners?](https://www.edp24.co.uk/news/no-female-act-to-headline-norfolk-suffolk-festivals-8987118) 24, May, 2022.
+- Glasgow World, [Festivals in Glasgow 2022: How many female headliners are there at your local music festival?](https://www.bing.com/search?q=anything&cvid=ed6bf60a6c5349379ffdd019dd56a0d6&aqs=edge..69i57j69i65l2j69i60j69i65j5j69i61l3.1240j0j1&pglt=43&FORM=ANNTA1&PC=U531), 24 May, 2022.
+- The National Wales, [Green Man and BBC 6 Music Festival booked almost no female headliners](https://www.thenational.wales/news/20160452.green-man-bbc6-music-festival-booked-almost-no-female-headliners/)
+- Suffolk News, [No female acts headlining Suffolk's top festivals Latitude and Let's Rock as national figures show only one in ten headliners in 2022 will be women](https://www.suffolknews.co.uk/southwold/no-female-acts-headlining-suffolks-top-two-festivals-this-y-9255697/), 24 May 2022.
