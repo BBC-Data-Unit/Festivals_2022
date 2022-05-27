@@ -33,7 +33,7 @@ He said inequalities ran throughout the ‘talent pipeline’ and had as much to
 
 This was a manual study which looked at the headings used on festival posters across the UK. We chose the 50 festivals to use in our study from [this](https://yougov.co.uk/ratings/entertainment/popularity/music-festivals/all) YouGov poll and logged the name, ages, gender and career length of every act in the largest font on each festival poster. More on the methodology, background and findings can be found [here](https://docs.google.com/document/d/1FQyWH-GGbteQfiBRf3RrFjiVGiJ03EdTnQy2SpSAET8/edit?usp=sharing). 
 
-Data
+# Data
 We produced [this](https://docs.google.com/spreadsheets/d/1FcRk9ZtD22UrojQ00lCn-Mk_lmnE36qj398vIced43E/edit?usp=sharing) dataset with the details of every headline act at 50 festivals across the country as well as the event's location and capacity.  
 
 # Partner usage
