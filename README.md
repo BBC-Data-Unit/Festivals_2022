@@ -1,13 +1,12 @@
-# Festivals_2022
-We revisit the issue of gender imbalance at major UK festivals
-
-In May 2022 we revisited the UK festival scene to look at the [gender imbalance among headline performers.](https://www.bbc.co.uk/news/newsbeat-61512053)
+# Music festivals: Only 13% of UK headliners in 2022 are female
 
 ![festival_headliners_gender__640-nc](https://user-images.githubusercontent.com/61186777/170726852-943052db-bdad-4f9a-be71-1e5151ab5b2a.png)
 
-When we first carried out the research in 2017, the Shared Data Unit found 80% of the bill-topping acts at major festivals between the mid-1980s and that year had been male.
+In May 2022 we [reported](https://www.bbc.co.uk/news/newsbeat-61512053) on the gender imbalance among headline performers at UK music festivals.
 
-In 2022 we teamed up with Radio 1's Newsbeat and wanted to take a slightly different approach - focussing not just on the top ten festivals in the UK, but the top 50.
+When the BBC first carried out similar research in 2017, it found 80% of the bill-topping acts at major festivals between the mid-1980s and that year had been male.
+
+In 2022 we teamed up with Radio 1's Newsbeat and took a slightly-different approach - focussing not just on the top ten festivals in the UK, but the top 50.
 
 The findings showed that little had changed despite a series of major campaigns to improve the split of main stage performers at the summer events.
 
@@ -31,10 +30,10 @@ He said inequalities ran throughout the ‘talent pipeline’ and had as much to
 
 # Methodology
 
-This was a manual study which looked at the headings used on festival posters across the UK. We chose the 50 festivals to use in our study from [this](https://yougov.co.uk/ratings/entertainment/popularity/music-festivals/all) YouGov poll and logged the name, ages, gender and career length of every act in the largest font on each festival poster. More on the methodology, background and findings can be found [here](https://docs.google.com/document/d/1FQyWH-GGbteQfiBRf3RrFjiVGiJ03EdTnQy2SpSAET8/edit?usp=sharing). 
+This study looked at the headings used on festival posters across the UK. We chose the 50 festivals to use in our study from [this](https://yougov.co.uk/ratings/entertainment/popularity/music-festivals/all) YouGov poll and manually-entered the name, ages, gender and career length of every act in the largest font on each festival poster. More on the methodology, background and findings can be found [here](https://docs.google.com/document/d/1FQyWH-GGbteQfiBRf3RrFjiVGiJ03EdTnQy2SpSAET8/edit?usp=sharing). 
 
 # Data
-We produced [this](https://docs.google.com/spreadsheets/d/1FcRk9ZtD22UrojQ00lCn-Mk_lmnE36qj398vIced43E/edit?usp=sharing) dataset with the details of every headline act at 50 festivals across the country as well as the event's location and capacity.  
+We produced [this dataset](https://docs.google.com/spreadsheets/d/1FcRk9ZtD22UrojQ00lCn-Mk_lmnE36qj398vIced43E/edit?usp=sharing) with the details of every headline act at 50 festivals across the country as well as the event's location and capacity.  
 
 # Partner usage
 
