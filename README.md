@@ -6,7 +6,7 @@ In May 2022 we [reported](https://www.bbc.co.uk/news/newsbeat-61512053) on the g
 
 When the BBC first carried out similar research in 2017, it found 80% of the bill-topping acts at major festivals between the mid-1980s and that year had been male.
 
-In 2022 we teamed up with Radio 1's Newsbeat and took a slightly-different approach - focussing not just on the top ten festivals in the UK, but the top 50.
+In 2022 the Shared Data Unit teamed up with Radio 1's Newsbeat and took a slightly-different approach - focussing not just on the top ten festivals in the UK, but the top 50.
 
 The findings showed that little had changed despite a series of major campaigns to improve the split of main stage performers at the summer events.
 
@@ -22,11 +22,11 @@ The findings showed that little had changed despite a series of major campaigns 
 
 US singer Maggie Rogers, whose hits include ‘Give a Little’ and ‘Alaska’, said the lack of female representation at festivals continued to be “horrifying” and urged festival directors to be bolder in their choice of headliners.
 
-And Brit Award winner Kate Nash said she was frustrated many continued to argue that it was difficult to book female acts in the top slots.
+And Brit Award-winner Kate Nash said she was frustrated many continued to argue that it was difficult to book female acts in the top slots.
 
 However, the chief executive of the Association of Independent Festivals (AIF) Paul Reed said it was unfair to blame the lack of balance on festival directors alone.
 
-He said inequalities ran throughout the ‘talent pipeline’ and had as much to do with booking agents, promoters, music schools and gig operators’.
+He said inequalities ran throughout the ‘talent pipeline’ and had as much to do with booking agents, promoters, music schools and gig operators.
 
 # Methodology
 
@@ -47,7 +47,7 @@ Special radio packages were made for Radio 1, Radio 2, Radio 3, Radio 4, Radio F
 
 A number of our partner network used the story as well.
 
-- Eastern Daily Press, [No girls aloud: where are all the female festival headliners?](https://www.edp24.co.uk/news/no-female-act-to-headline-norfolk-suffolk-festivals-8987118), 24, May 2022.
-- Glasgow World, [Festivals in Glasgow 2022: How many female headliners are there at your local music festival?](https://www.bing.com/search?q=anything&cvid=ed6bf60a6c5349379ffdd019dd56a0d6&aqs=edge..69i57j69i65l2j69i60j69i65j5j69i61l3.1240j0j1&pglt=43&FORM=ANNTA1&PC=U531), 24 May 2022.
-- The National Wales, [Green Man and BBC 6 Music Festival booked almost no female headliners](https://www.thenational.wales/news/20160452.green-man-bbc6-music-festival-booked-almost-no-female-headliners/), 24 May 2022.
-- Suffolk News, [No female acts headlining Suffolk's top festivals Latitude and Let's Rock as national figures show only one in ten headliners in 2022 will be women](https://www.suffolknews.co.uk/southwold/no-female-acts-headlining-suffolks-top-two-festivals-this-y-9255697/), 24 May 2022.
+- Eastern Daily Press, [No girls aloud: where are all the female festival headliners?](https://www.edp24.co.uk/news/no-female-act-to-headline-norfolk-suffolk-festivals-8987118) *24 May 2022*.
+- Glasgow World, [Festivals in Glasgow 2022: How many female headliners are there at your local music festival?](https://www.bing.com/search?q=anything&cvid=ed6bf60a6c5349379ffdd019dd56a0d6&aqs=edge..69i57j69i65l2j69i60j69i65j5j69i61l3.1240j0j1&pglt=43&FORM=ANNTA1&PC=U531) *24 May 2022*.
+- The National Wales, [Green Man and BBC 6 Music Festival booked almost no female headliners](https://www.thenational.wales/news/20160452.green-man-bbc6-music-festival-booked-almost-no-female-headliners/) *24 May 2022*.
+- Suffolk News, [No female acts headlining Suffolk's top festivals Latitude and Let's Rock as national figures show only one in ten headliners in 2022 will be women](https://www.suffolknews.co.uk/southwold/no-female-acts-headlining-suffolks-top-two-festivals-this-y-9255697/) *24 May 2022*.
