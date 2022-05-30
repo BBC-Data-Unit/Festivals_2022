@@ -47,7 +47,7 @@ Special radio packages were made for Radio 1, Radio 2, Radio 3, Radio 4, Radio F
 
 A number of our partner network used the story as well.
 
-- Eastern Daily Press, [No girls aloud: where are all the female festival headliners?](https://www.edp24.co.uk/news/no-female-act-to-headline-norfolk-suffolk-festivals-8987118) *24 May 2022*.
+- Eastern Daily Press, [No Girls Allowed: where are all the female festival headliners?](https://www.edp24.co.uk/news/no-female-act-to-headline-norfolk-suffolk-festivals-8987118) *24 May 2022*.
 - Glasgow World, [Festivals in Glasgow 2022: How many female headliners are there at your local music festival?](https://www.bing.com/search?q=anything&cvid=ed6bf60a6c5349379ffdd019dd56a0d6&aqs=edge..69i57j69i65l2j69i60j69i65j5j69i61l3.1240j0j1&pglt=43&FORM=ANNTA1&PC=U531) *24 May 2022*.
 - The National Wales, [Green Man and BBC 6 Music Festival booked almost no female headliners](https://www.thenational.wales/news/20160452.green-man-bbc6-music-festival-booked-almost-no-female-headliners/) *24 May 2022*.
 - Suffolk News, [No female acts headlining Suffolk's top festivals Latitude and Let's Rock as national figures show only one in ten headliners in 2022 will be women](https://www.suffolknews.co.uk/southwold/no-female-acts-headlining-suffolks-top-two-festivals-this-y-9255697/) *24 May 2022*.
